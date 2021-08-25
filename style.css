@@ -1,34 +1,29 @@
+body{
+  background-color:#363636;
+  font-family: "Lucida Console", "Courier New", monospace;
 p{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 h1{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 h2{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 h3{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 h4{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 h5{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 h6{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 a{
   color:white;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 div{
   border-radius: 5px;
